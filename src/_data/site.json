@@ -1,11 +1,11 @@
 {
   "showThemeCredit": true,
-  "name": "Hylia Starter Kit",
-  "shortDesc": "Hylia is a lightweight Eleventy starter kit to help you to create your own blog or personal website.",
-  "url": "https://hylia.website",
-  "authorEmail": "me@andy-bell.design",
-  "authorHandle": "@andybelldesign",
-  "authorName": "Andy Bell",
+  "name": "TeraPractice",
+  "shortDesc": "TeraPractice is a new approach to primary care that provides personalized care wherever you are. Get in touch with your health team through on-the-go messaging, video visits and same-day appointments.",
+  "url": "https://elastic-mccarthy-ca5862.netlify.com",
+  "authorEmail": "nichod2@sutterhealth.org",
+  "authorHandle": "@nichod2",
+  "authorName": "Daren Nicholson",
   "enableThirdPartyComments": false,
   "maxPostsPerPage": 5
 }
